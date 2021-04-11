@@ -22,6 +22,10 @@ _You'll need Git and Node.js_
 * Clone from GitHub
 * From project's root directory in the command line: `npm install`
 * `npm run start` to build and run project on live development server
+### If using as a template
+* Specify project name and author in package.json
+* Delete src/triangle.js
+* In src/main.js, delete import from triangle.js
 
 ## Known Bugs
 * 
